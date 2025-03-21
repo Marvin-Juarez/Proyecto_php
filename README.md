@@ -7,5 +7,7 @@ Prerrequisito:
 Un entorno de desarrollo.
 
 Nombre: Marvin Juárez
+
 No.Carné: 25001064
+
 Correo: 25001064@galileo.edu
