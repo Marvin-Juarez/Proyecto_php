@@ -1,7 +1,7 @@
 Proyecto php
 
 Descripción:
-Mostración de una linea de texto y una imagen en una pagina web.
+Mostración de una linea de texto y una imagén en una pagina web.
 
 Prerrequisito:
 Un entorno de desarrollo.
